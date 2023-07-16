@@ -23,3 +23,4 @@ Se você tiver alguma dúvida, sugestão ou apenas quiser entrar em contato com 
 - E-mail: projetomdc.uepb@gmail.com<br>
 - Linkedin: [MDC - Mulheres de Computação](https://www.linkedin.com/in/mdcuepb/)<br>
 - Instagram: [@mdc_uepb]( https://www.instagram.com/mdc_uepb/)<br>
+- Site: [Projeto MDC]( https://projetomdc.tech/)<br>
